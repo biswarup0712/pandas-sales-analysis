@@ -138,7 +138,7 @@ Created visualizations using Matplotlib to communicate key findings.
 
 ### Quantity Sold vs Average Price
 
-![Product Quantity vs Price](images/comparison_product_quantity-vs-price)
+![Product Quantity vs Price](images/comparison_product_quantity-vs-price.png)
 
 ---
 
